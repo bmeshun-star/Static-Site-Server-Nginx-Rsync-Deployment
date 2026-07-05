@@ -33,11 +33,10 @@ Set up a remote Linux server, install and configure **Nginx** to serve a static 
 
 ---
 
-# :camera_with_flash: Project Preview
+# Project Preview
 
 <div align="center">
-
-<img src="screenshots/portfolio-homepage.png" width="900" alt="Cloud Portfolio Website">
+    <img src="cloud-portfolio/screenshots/portfolio-homepage.png" width="900" alt="Cloud Portfolio Website">
 
 </div>
 
